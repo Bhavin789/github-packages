@@ -1,5 +1,5 @@
 {
-  "name": "github-packages",
+  "name": "@Bhavin789/github-packages",
   "version": "1.0.0",
   "description": "First github package",
   "main": "index.js",
